@@ -8,7 +8,6 @@ Possessing strong technical skills in programming languages, algorithm design, c
 
 * 🌍  I'm based in Liverpool
 * ✉️  You can contact me at [deb.dj.dj.007@gmail.com](mailto:deb.dj.dj.007@gmail.com)
-* 🧠  I'm learning Reinforcement learning
 * 🤝  I'm open to collaborating on projects
 
 ### Skills
