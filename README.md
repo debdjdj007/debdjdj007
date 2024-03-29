@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Debajyoti Ghosh
 =======================================================================================================================================
 
-Student currently pursuing an MSc in Advanced Computer Science
---------------------------------------------------------------
+Student currently pursuing an Phd in Multi-fidelity AI in advanced chemical discovery
+--------------------------------------------------------------------------------------
 
-Possessing strong technical skills in programming languages, algorithm design, computer architecture, machine learning, and data mining. A former Founder and Manager of S.S. Enterprise, with experience in entrepreneurial skills, supply chain management, and team management. A quick learner with strong problem-solving skills and a passion for technology.
+Possessing strong technical skills in programming languages, algorithm design, computer architecture, machine learning, and data mining. A former Founder and Manager of S.S. Enterprise, with experience in entrepreneurial skills, data analysis, supply chain management, and team management. A quick learner with strong problem-solving skills and a passion for technology.
 
 * 🌍  I'm based in Liverpool
 * ✉️  You can contact me at [deb.dj.dj.007@gmail.com](mailto:deb.dj.dj.007@gmail.com)
